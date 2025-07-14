@@ -2,16 +2,16 @@ import React from "react";
 
 const testimonials = [
   {
-    name: "Mr. Ebrima Jallow",
-    title: "Director at YouthGrow NGO",
+    name: "Mr. Wandifa Cham",
+    title: "HR at President's International Award",
     message:
       "DreamTech transformed the way our organization handles data. Their solution was fast, reliable, and tailored to our needs.",
   },
   {
-    name: "Mrs. Jainaba Touray",
-    title: "Principal, Bright Future Academy",
+    name: "Mr. Ebrima Darboe",
+    title: "Chairman, at Charity 4 Gambia",
     message:
-      "Their school management platform helped us eliminate paper records entirely. Truly efficient and easy to use.",
+      "The website built by them helped our customer to reach us. Truly efficient and easy to use.",
   },
 ];
 
