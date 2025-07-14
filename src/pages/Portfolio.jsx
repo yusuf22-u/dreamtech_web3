@@ -2,15 +2,11 @@ import React from "react";
 
 const projects = [
   {
-    title: "School Management System",
+    title: "HR Management System",
     description:
-      "Built a complete student data and academic records platform for several private schools in Kanifing.",
+      "Built a complete human resourse data management for several organization.",
   },
-  {
-    title: "Hospital Patient Record System",
-    description:
-      "Developed a web-based patient management solution for a regional clinic.",
-  },
+  
   {
     title: "NGO Website & Portal",
     description:
